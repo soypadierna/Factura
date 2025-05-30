@@ -1,0 +1,33 @@
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csprojAssemblyReference.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\Windows 10\Desktop\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\obj\Debug\Factura.exe.config
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\obj\Debug\Factura.pdb
+C:\Users\Janus\Documents\AUTORZACION\EJEMPLO\Factura\obj\Debug\Factura.Form2.resources
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\bin\Debug\Factura.exe.config
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\bin\Debug\Factura.exe
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\bin\Debug\Factura.pdb
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\obj\Debug\Factura.csproj.AssemblyReference.cache
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\obj\Debug\Factura.Form1.resources
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\obj\Debug\Factura.Form2.resources
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\obj\Debug\Factura.Properties.Resources.resources
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\obj\Debug\Factura.csproj.GenerateResource.cache
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\obj\Debug\Factura.csproj.CoreCompileInputs.cache
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\obj\Debug\Factura.exe
+C:\Users\Administrador.DESKTOP-QAAGEN3\Downloads\EJEMPLO\EJEMPLO\Factura\obj\Debug\Factura.pdb
